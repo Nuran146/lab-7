@@ -10,18 +10,19 @@ img.background {
 }
 .container-content {
   text-align: center;
-  position: relative;
+  position: fixed;
 }
 h1 {
 font-family: Arial, sans-serif;
 font-weight: 400%;
 }
 img.me {
+    margin-top: -3%;
     margin-left: 4%;
 }
 img.tree {
-    margin-top: -4.4%;
-    margin-right: 2%;
+    margin-top: -31%;
+    margin-right: -3%;
 }
 img.C {
    margin-top: -8.3%;
@@ -84,7 +85,7 @@ height:210px;
 background-color:#FF4500; 
 border-radius: 20px;
 margin-left: 56%;
-margin-top: -93.3%;
+margin-top: -104.3%;
 }
 .block7 {
 width:260px;
