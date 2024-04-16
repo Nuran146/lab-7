@@ -11,6 +11,7 @@ img.background {
 .container-content {
   text-align: center;
   position: fixed;
+  margin-left: 31%;
 }
 h1 {
 font-family: Arial, sans-serif;
